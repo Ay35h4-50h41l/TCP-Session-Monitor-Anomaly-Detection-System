@@ -1,0 +1,5 @@
+{"session_id": 1, "src": "127.0.0.1:5992", "dst": "127.0.0.1:5000", "seq": 1, "data": "LOGIN|10|user=user1", "timestamp": 1778002773.0162945}
+{"session_id": 1, "src": "127.0.0.1:5992", "dst": "127.0.0.1:5000", "seq": 2, "data": "MSG|5|hello", "timestamp": 1778002779.9457977}
+{"session_id": 1, "src": "127.0.0.1:5994", "dst": "127.0.0.1:5000", "seq": 1, "data": "RST|24|Connection reset by peer", "timestamp": 1778002795.2609434}
+{"session_id": 1, "src": "127.0.0.1:5992", "dst": "127.0.0.1:5000", "seq": 1, "data": "MSG|2|hi", "timestamp": 1778002805.8896554}
+{"session_id": 1, "src": "127.0.0.1:5992", "dst": "127.0.0.1:5000", "seq": 2, "data": "MSG|14|leave me alone", "timestamp": 1778002829.6634812}
